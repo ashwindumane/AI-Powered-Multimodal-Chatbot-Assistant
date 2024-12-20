@@ -8,6 +8,10 @@ With the increasing volume and variety of digital content, there is a need for a
 
 "The AI-Powered Multimodal Chatbot Assistant" addresses this issue by integrating multiple AI models into a single chat interface. This allows users to interact with audio, images, and PDF documents within one platform, enhancing productivity and user experience.
 
+## Architecture of AI-Powered Multimodal Chatbot Assistent
+
+![Architecture of AI-Powered Multimodal Chatbot - Claude_page-0001](https://github.com/user-attachments/assets/7259640f-7fa5-4e28-83b9-14b81697e2f7)
+
 ## Use Cases / Real World Applications💻
 
 ### 1.Business Applications
