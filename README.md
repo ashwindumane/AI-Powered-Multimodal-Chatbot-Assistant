@@ -10,7 +10,7 @@ With the increasing volume and variety of digital content, there is a need for a
 
 ## Use Cases / Real World Applications
 
-### Business Applications
+### 1.Business Applications
 
 **Customer Support:**
 - Enhances customer support by handling voice queries, analyzing image attachments, and processing PDFs, providing a seamless, integrated support experience.
@@ -18,7 +18,7 @@ With the increasing volume and variety of digital content, there is a need for a
 **Document Management:**
 - Increases efficiency by allowing businesses to quickly access and extract relevant information from documents.
 
-### Educational Applications
+### 2.Educational Applications
 
 **Interactive Learning:**
 - Creates an immersive learning environment by interacting with educational PDFs, providing audio explanations, and analyzing images.
@@ -26,7 +26,7 @@ With the increasing volume and variety of digital content, there is a need for a
 **Research Assistance:**
 - Facilitates faster data analysis by summarizing academic papers, transcribing interviews, and analyzing research images.
 
-### Healthcare Applications
+### 3.Healthcare Applications
 
 **Patient Support:**
 - Enhances patient understanding and accessibility to health information through audio transcriptions, medical image analysis, and PDF interactions.
@@ -34,12 +34,7 @@ With the increasing volume and variety of digital content, there is a need for a
 **Telemedicine:**
 - Streamlines remote consultations by managing and analyzing multimedia data from telemedicine sessions.
 
-### Legal Applications
-
-**Case Management:**
-- Enhances efficiency by transcribing audio evidence, analyzing visual data, and extracting information from legal documents.
-
-### Personal Productivity
+### 4.Personal Productivity
 
 **Personal Assistant:**
 - Improves personal productivity by organizing voice memos, summarizing PDFs, and managing photo libraries.
