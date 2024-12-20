@@ -8,7 +8,7 @@ With the increasing volume and variety of digital content, there is a need for a
 
 "The AI-Powered Multimodal Chatbot Assistant" addresses this issue by integrating multiple AI models into a single chat interface. This allows users to interact with audio, images, and PDF documents within one platform, enhancing productivity and user experience.
 
-## Use Cases / Real World Applications
+## Use Cases / Real World Applications💻
 
 ### 1.Business Applications
 
